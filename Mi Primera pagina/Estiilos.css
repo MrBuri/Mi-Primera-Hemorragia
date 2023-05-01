@@ -1,0 +1,53 @@
+body{
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{ 
+    text-align: center;
+}
+
+p{
+    color:black;
+    font-size:  24px;
+}
+
+#Meow{
+    color:blue;
+    font-size:x-large;
+    font-weight: bold;
+}
+
+#Comida{
+    color: crimson;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#History{
+    color:black;
+    font-style:oblique;
+}
+
+.Parrafo{
+    color: rgb(167, 4, 231);
+    font-style: italic;
+}
+
+a, img{
+    display: block;
+}
+
+a{
+    margin: 50px 20px;
+    text-decoration: none;
+    color:black
+}
+
+
+
+
+img{
+    width: 70%;
+    margin: auto;
+}
